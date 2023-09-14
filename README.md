@@ -15,6 +15,8 @@
 | SDS011 | ESP |
 |--|--|
 GND	| GND
-5V	5V
-TX	GPIO RX
-RX	GPIO TX
+| 5V | 5V |
+| TX | GPIO RX |
+| RX | GPIO TX |
+
+
