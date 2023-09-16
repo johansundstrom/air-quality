@@ -12,11 +12,11 @@
 * Ansluts till 5V@70mA
 * PM2.5 och PM10 output
 
-| SDS011 | ESP |
-|--|--|
-GND	| GND
-| 5V | 5V |
-| TX | GPIO RX |
-| RX | GPIO TX |
+| SDS011 | ESP | pin |
+|--|--|--|
+GND	| GND | GND |
+| 5V | 5V | 5V |
+| TX | GPIO RX | GPIO04 |
+| RX | GPIO TX | GPIO02 |
 
 
